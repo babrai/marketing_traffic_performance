@@ -20,9 +20,9 @@ Analyze user transaction data for a weekly subscription plan.
 - Forecast ARPU on day 90 of user lifetime
 
 ## Results
-- **Conversion rate:** 32.76%  
-- **ARPU Day 14:** $2.33  
-- **ARPU Day 90 (forecast):** $3.01
+- **Conversion rate:** 32.73%  
+- **ARPU Day 14:** $2.21  
+- **ARPU Day 90 (forecast):** $11.94
 
 ## Tools
 - Python (pandas, matplotlib)
