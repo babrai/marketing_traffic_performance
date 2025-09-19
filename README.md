@@ -22,7 +22,7 @@ Analyze user transaction data for a weekly subscription plan.
 ## Results
 - **Conversion rate:** 32.73%  
 - **ARPU Day 14:** $2.21  
-- **ARPU Day 90 (forecast):** $11.94
+- **ARPU Day 90 (forecast):** $11.92
 
 ## Tools
 - Python (pandas, matplotlib)
